@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm SURAJ PANDEY 👋
 
 🚀 About Me
 I'm a passionate Full Stack Developer specializing in the MERN (MongoDB, Express, React, Node.js) stack. I love creating web applications that are not only functional but also provide an excellent user experience.
