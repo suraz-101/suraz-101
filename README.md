@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm [Your Name] 👋
+
+🚀 About Me
+I'm a passionate Full Stack Developer specializing in the MERN (MongoDB, Express, React, Node.js) stack. I love creating web applications that are not only functional but also provide an excellent user experience.
+
+
+
 
 <!--
 **suraz-101/suraz-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
