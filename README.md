@@ -107,5 +107,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraz-101&" alt="GitHub Streak" />
 </p>
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/44c73a089232710cabbaa27238fb843b03d733a7cb9926df7489425e3864e4e9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53756c61764761697265266c6162656c3d50726f66696c65253230766965777326636f6c6f723d677265656e267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/44c73a089232710cabbaa27238fb843b03d733a7cb9926df7489425e3864e4e9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53756c61764761697265266c6162656c3d50726f66696c65253230766965777326636f6c6f723d677265656e267374796c653d706c6173746963" alt="SulavGaire" data-canonical-src="https://komarev.com/ghpvc/?username=SulavGaire&amp;label=Profile%20views&amp;color=green&amp;style=plastic" style="max-width: 100%;"></a> </p>
 
 <h1>Thank You!!<h1/>
